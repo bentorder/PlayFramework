@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author nayaneko
- *
- */
-package models;
